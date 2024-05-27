@@ -7,3 +7,7 @@ Core Feature :
 6) Social Media Integration: Share buttons. Embed links to social media profiles.
 7) Contact Form: Integrated contact form for visitors to reach out. Email notifications upon contact form submission.
 8) Caching mechanisms to enhance loading times. Efficient database queries for scalability.
+
+
+To run the application, go inside the DPG folder and run:
+`mvnw spring-boot:run`
